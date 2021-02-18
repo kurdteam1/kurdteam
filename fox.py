@@ -3,8 +3,8 @@ os.system("clear")
 time.sleep(2)
 print("\033[31m\n          █████▒    ▒█████     ▒██   ██▒\n        ▓██   ▒    ▒██▒  ██▒   ▒▒ █ █▒░\n        ▒████ ░   ▒██░    ██▒    ░░█░\n        ░▓█▒  ░    ▒██   ██░    ░ █ █▒\n        ░▒█░       ░ ████▓▒░   ▒██▒▒██▒\n         ▒ ░       ░ ▒░▒░▒░    ▒▒ ░ ░▓ ░\n         ░           ░ ▒ ▒░    ░░   ░▒ ░\n         ░           ░ ░ ▒      ░    ░\n                       ░ ░      ░    ░\n\033[90;1m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n \033[0;1m     Auther: Zed\n      My lion: Dark\n      Chenal Telegram: kak_zed_1\n      Note: 30$ Hata Hatay / 10$ Bo Eak Mang\n      Note: ID Active a DllaKam \n\033[90;1m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 while True:
-	h = "zed"
-	j = "fox"
+	h = "fox"
+	j = "zed"
 	jj = input(" Username: ")
 	hh = input(" Passowrd: ")
 	if h == hh and j == jj :
