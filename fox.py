@@ -10,6 +10,7 @@ while True:
 	if h == hh and j == jj :
 		print("\033[32m Afarin \033[0;1m:)")
 		time.sleep(1)
+                print(50*"-")
 		os.system("python2 .0.py")
 	else:
 		print("\033[33;1mHallaya !!")
