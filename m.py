@@ -11,7 +11,7 @@ while True:
 		print("\033[32m KRAYAWA \033[0;1m:)")
 		print(50*"-")
 		time.sleep(1)
-		os.system("python2 m.py")
+		os.system("python3 m.py")
 	else:
 		print("\033[33;1mHallaya !!")
 		time.sleep(1)
@@ -30,7 +30,7 @@ while True:
 		print("\033[32m KRAYAWA \033[0;1m:)")
 		print(50*"-")
 		time.sleep(1)
-		os.system("python2 m.py")
+		os.system("python3 m.py")
 	else:
 		print("\033[33;1mHallaya !!")
 		time.sleep(1)
